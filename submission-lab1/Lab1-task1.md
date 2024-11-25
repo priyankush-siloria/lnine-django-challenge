@@ -6,4 +6,6 @@
 ## Screenshot of Starter Kit
 Below is a screenshot of the starter kit interface:
 
-![Starter Kit Screenshot](path/to/starter-kit-screenshot.png)  <!-- Replace with your screenshot path -->
+
+![Starter Kit Screenshot](https://github.com/priyankush-siloria/lnine-django-challenge/blob/main/submission-lab1/Images/Screenshot%202024-11-25%20122835.png)
+
